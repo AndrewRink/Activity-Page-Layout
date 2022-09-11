@@ -1,9 +1,9 @@
 span {
   display: inline-block;
+}
 
-  Body {
-    text-align: center;
-  }
+body {
+  text-align: center;
 }
 /* span {
   display: inline-block;
