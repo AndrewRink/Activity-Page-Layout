@@ -1,10 +1,12 @@
-span {
-  display: inline-block;
-}
-
 body {
   text-align: center;
 }
+  
+  span {
+  display: inline-block;
+}
+
+
 /* span {
   display: inline-block;
   background-color: lightblue;
